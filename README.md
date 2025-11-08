@@ -16,8 +16,7 @@ It uses **Salesforce features** like Custom Objects, Validation Rules, Flows, Ap
 ## 👨‍💻 Team Information  
 - **College:** Unnamalai Institute of Technology, Kovilpatti  
 - **Department:** Computer Science and Engineering  
-- **Project Title:** Garage Management System  
-- **Supervisor:** Mr. J. Sethuram, M.E (Assistant Professor, Department of CSE)  
+- **Project Title:** Garage Management System   
 
 ### 🧑‍💼 Team Leader  
 - **M. A. Padma Kumar** – [padmakumar16pk@gmail.com](mailto:padmakumar16pk@gmail.com)  
