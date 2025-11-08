@@ -19,14 +19,14 @@ It uses **Salesforce features** like Custom Objects, Validation Rules, Flows, Ap
 - **Project Title:** Garage Management System  
 - **Supervisor:** Mr. J. Sethuram, M.E (Assistant Professor, Department of CSE)  
 
-### 👑 Team Leader  
-- **M. A. Padma Kumar** – [email@example.com](mailto:email@example.com)  
+### 🧑‍💼 Team Leader  
+- **M. A. Padma Kumar** – [padmakumar16pk@gmail.com](mailto:padmakumar16pk@gmail.com)  
 
 ### 👥 Team Members  
-- **D. Sudalai Raja** – [email@example.com](mailto:email@example.com)  
-- **M. Piravin Kumar** – [email@example.com](mailto:email@example.com)  
-- **B. Muthueswaran** – [email@example.com](mailto:email@example.com)  
-- **S. Arikaramurthy** – [email@example.com](mailto:email@example.com)  
+- **D. Sudalai Raja** – [d.sudalairaja21@gmail.com](mailto:d.sudalairaja21@gmail.com)  
+- **M. Piravin Kumar** – [piravinkumar0105@gmail.com](mailto:piravinkumar0105@gmail.com)  
+- **B. Muthueswaran** – [muthueswaranb@gmail.com](mailto:muthueswaranb@gmail.com)  
+- **S. Arikaramurthy** – [arikaramurthy008@gmail.com](mailto:arikaramurthy008@gmail.com)  
 
 ---
 
