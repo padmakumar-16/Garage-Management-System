@@ -77,5 +77,5 @@ It uses **Salesforce features** like Custom Objects, Validation Rules, Flows, Ap
 ---
 
 ## 📜 License  
-This project was developed **for academic purposes** as part of the final-year coursework under **Anna University, Chennai**.  
+This project was developed for academic purposes as part of the Naan Mudhalvan coursework.  
 All Salesforce components, logic, and assets are created solely for educational demonstration.  
