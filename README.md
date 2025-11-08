@@ -1,7 +1,7 @@
 # 🚗 Garage Management System (Salesforce)
 
 ## 📌 Overview  
-The **Garage Management System (GMS)** is a **Salesforce-based cloud application** developed as part of a final-year Computer Science Naan Mudhalvan project.  
+The **Garage Management System (GMS)** is a **Salesforce-based cloud application** developed as part of the Naan Mudhalvan Salesforce project.  
 
 This system helps automotive garages efficiently manage:  
 - Customer information  
